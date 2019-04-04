@@ -1,0 +1,19 @@
+BLACK	-	VCC
+WHITE	-	OUT
+GREY	-	S2
+PURPLE	-	S3
+BLUE	-	S0
+GREEN	-	S1
+YELLOW	-	NC
+ORANGE	-	NC
+RED	-	GND
+BROWN	-	NC
+
+
+
+FLAT CABLE CONNECTOR VISUAL
+________________
+| 2| 4| 6| 8|10|
+________________
+| 1| 3/ 5 \7| 9|
+_______   ______ 

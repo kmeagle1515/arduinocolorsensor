@@ -1,0 +1,8 @@
+	ARDUINO	|	FTDI
+_____________________________
+	DTR	|	DTR
+	TX	|	RX
+	RX	|	TX
+	VCC	|	VCC
+	GND	|	CTS
+	GND	|	GND
